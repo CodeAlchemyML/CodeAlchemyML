@@ -2,7 +2,8 @@
 ## :raising_hand_man:I'm Awiksshiith Narang and I'm an AI/ML Developer!
 - From :round_pushpin:Rajahmundry, Andhra Pradesh, India
 - [LinkedIn](https://www.linkedin.com/in/awiksshiith-narang-94008b227/)
-- [Resume](https://www.overleaf.com/read/dkqzdwtgtcbd#0f0999)
+- [View My Resume](https://www.overleaf.com/read/dkqzdwtgtcbd#0f0999)
+- [View My Portfolio](https://bold.pro/my/awiksshiith-narang-240907214405)
 - You can contact me by mailing to: [avikshitnarang@gmail.com](avikshitnarang@gmail.com), [me21b1023@iiitdm.ac.in](me21b1023@iiitdm.ac.in)
 - You can contact me by calling to: +91 83282 67410
 - Passionate Developer and Enthusiast in the field of Machine Learning, Deep Learning, Data Analytics and Generative AI.
