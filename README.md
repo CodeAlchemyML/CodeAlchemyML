@@ -11,21 +11,17 @@
 ---
 ## :computer:Skills:
 - ## Languages:
-    - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - ## Techstack:
-    - Pattern Recognition
-    - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=flat-square&logo=deeplearning.ai&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white) ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2C2D72?style=flat-square&logo=apache-spark&logoColor=white) ![Generative AI](https://img.shields.io/badge/-Generative%20AI-0769AD?style=flat-square&logo=openai&logoColor=white)
+  ![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-10217D) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=flat-square&logo=deeplearning.ai&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white) ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2C2D72?style=flat-square&logo=apache-spark&logoColor=white) ![Generative AI](https://img.shields.io/badge/-Generative%20AI-0769AD?style=flat-square&logo=openai&logoColor=white)
 - ## Frameworks:
-    - Flask
-    - Streamlit
-    - Gradio
-    - FastAPI
+  ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF7F50?style=flat-square&logo=gradio) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 - ## Libraries:
-    - pandas
-    - NumPy
-    - Matplotlib
-    - scikit-learn
-    - TensorFlow
+    - ![pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+    - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+    - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib)
+    - ![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn)
+    - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
 
 ---
 ## :man_technologist:Work Experience:
