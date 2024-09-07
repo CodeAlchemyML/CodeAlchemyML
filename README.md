@@ -11,15 +11,10 @@
 ---
 ## :computer:Skills:
 - ## Languages:
-    - C
-    - Python
-    - Java
+    - ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - ## Techstack:
     - Pattern Recognition
-    - Machine Learning
-    - Deep Learning
-    - Data Analytics
-    - Generative AI
+    - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=flat-square&logo=deeplearning.ai&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white) ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-2C2D72?style=flat-square&logo=apache-spark&logoColor=white) ![Generative AI](https://img.shields.io/badge/-Generative%20AI-0769AD?style=flat-square&logo=openai&logoColor=white)
 - ## Frameworks:
     - Flask
     - Streamlit
