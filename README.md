@@ -6,7 +6,7 @@
 - [View My Portfolio](https://bento.me/awiksshiith-narang)
 - You can contact me by mailing to: [avikshitnarang@gmail.com](avikshitnarang@gmail.com), [me21b1023@iiitdm.ac.in](me21b1023@iiitdm.ac.in)
 - You can contact me by calling to: +91 83282 67410
-- Passionate Developer and Enthusiast in the field of Machine Learning, Deep Learning, Generative AI, Data analytics and Backend (Python - FastAPI) development.
+- Passionate Developer and Enthusiast in the field of Machine Learning, Deep Learning, Generative AI, Data analytics and Backend/API (Python - FastAPI) development.
 
 ---
 ## :computer:Skills:
