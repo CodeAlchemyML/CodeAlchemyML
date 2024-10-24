@@ -21,7 +21,7 @@
 
 ---
 ## :man_technologist:Work Experience:
-- AI/ML Developer Intern @ [Multeway](https://www.linkedin.com/company/98325458/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb%2BRAc7uHSM6bkTRF65joZw%3D%3D) [Jun. 2024 - Present]
+- AI/ML Developer Intern @ [Around Me](https://www.linkedin.com/company/around-me-app/) (Prev. [Multeway](https://www.linkedin.com/company/98325458/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb%2BRAc7uHSM6bkTRF65joZw%3D%3D)) [Jun. 2024 - Present]
 - Research Intern @ [Indian Institute of Information Technology, Design and Manufacturing, (IIITDM) Kancheepuram](https://sites.google.com/view/shubhankar-iiitdm/research-works/research-group) [Oct. 2023 - Present]
 - Machine Learning Intern @ Bharat Intern [Sept. 2023 - Oct. 2023]
 
