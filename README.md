@@ -1,5 +1,5 @@
 ## Hey There!👋
-## :raising_hand_man:I'm Awiksshiith Narang and I'm an AI/ML Developer!
+## :raising_hand_man:I'm Awiksshiith Narang and I'm an AI/ML and Backend Developer!
 - From :round_pushpin:Rajahmundry, Andhra Pradesh, India
 - [LinkedIn](https://www.linkedin.com/in/awiksshiith-narang)
 - [View My Resume](https://www.overleaf.com/read/dkqzdwtgtcbd#0f0999)
