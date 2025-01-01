@@ -2,7 +2,7 @@
 ## :raising_hand_man:I'm Awiksshiith Narang and I'm an AI/ML & Python Backend Developer!
 - From :round_pushpin:Rajahmundry, Andhra Pradesh, India
 - [LinkedIn](https://www.linkedin.com/in/awiksshiith-narang)
-- [View My Resume](https://drive.google.com/file/d/1KrdXBG79nznWgjp4GDfDtfLZ9tafff5D/view?usp=sharing)
+- [View My Resume](https://drive.google.com/file/d/1dQmenkfB5l-PAci3dl_Q3i8rsJXBW48u/view?usp=sharing)
 - [View My Portfolio](https://bento.me/awiksshiith-narang)
 - You can contact me by mailing to: [avikshitnarang@gmail.com](avikshitnarang@gmail.com), [me21b1023@iiitdm.ac.in](me21b1023@iiitdm.ac.in)
 - You can contact me by calling to: +91 83282 67410
@@ -23,8 +23,8 @@
 
 ---
 ## :man_technologist:Work Experience:
-- AI/ML & Python Backend Developer Intern @ [Around Me](https://www.linkedin.com/company/around-me-app/) (Prev. [Multeway](https://www.linkedin.com/company/98325458/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb%2BRAc7uHSM6bkTRF65joZw%3D%3D)) [Jun. 2024 - Present]
-- Research Intern @ [Indian Institute of Information Technology, Design and Manufacturing, (IIITDM) Kancheepuram](https://sites.google.com/view/shubhankar-iiitdm/research-works/research-group) [Oct. 2023 - Present]
+- AI/ML & Python Backend Developer Intern @ [Around Me](https://www.linkedin.com/company/around-me-app/) (Prev. [Multeway](https://www.linkedin.com/company/98325458/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb%2BRAc7uHSM6bkTRF65joZw%3D%3D)) [Jun. 2024 - Dec. 2024]
+- Research Intern @ [Indian Institute of Information Technology, Design and Manufacturing, (IIITDM) Kancheepuram](https://sites.google.com/view/shubhankar-iiitdm/research-works/research-group) [Oct. 2023 - Jun. 2024]
 - Machine Learning Intern @ Bharat Intern [Sept. 2023 - Oct. 2023]
 
 ---
