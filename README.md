@@ -2,7 +2,7 @@
 ## :raising_hand_man:I'm Awiksshiith Narang and I'm an AI/ML & Python Backend Developer!
 - From :round_pushpin:Rajahmundry, Andhra Pradesh, India
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/awiksshiith-narang)
-- [View My Resume](https://drive.google.com/file/d/1y8koHo1twxObSawkDHkYh_xiPG4RfLu7/view?usp=sharing)
+- [View My Resume](https://drive.google.com/file/d/1F-RXvtiANYLI1E90iu1D099sjKr_QE7T/view?usp=sharing)
 - [View My Portfolio](https://bento.me/awiksshiith-narang)
 - You can contact me by mailing to: [avikshitnarang@gmail.com](avikshitnarang@gmail.com), [me21b1023@iiitdm.ac.in](me21b1023@iiitdm.ac.in)
 - You can contact me by calling to: +91 83282 67410
