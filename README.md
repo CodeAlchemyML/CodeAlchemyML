@@ -30,9 +30,11 @@
 
 ---
 ## Projects:
-- [Movie Recommendation System](https://github.com/CodeAlchemyML/recommendation_system)
-- [Right BrAIn - a Text-to-Image generator](https://github.com/CodeAlchemyML/Right-BrAIn)
+- [Deep Learning for Heat Flow Reconstruction in Irregular Domains](https://www.linkedin.com/in/awiksshiith-narang/details/projects/)
+- [Design of a Non-Invasive CGM-Based Artificial Pancreas](https://www.linkedin.com/in/awiksshiith-narang/details/projects/)
 - [TranslAIte - a translator that translates any text to English](https://github.com/CodeAlchemyML/TranslAIte)
+- [Right BrAIn - a Text-to-Image generator](https://github.com/CodeAlchemyML/Right-BrAIn)
+- [Movie Recommendation System](https://github.com/CodeAlchemyML/recommendation_system)
 
 ---
 ## :mortar_board:Education:
