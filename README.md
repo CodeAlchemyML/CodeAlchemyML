@@ -9,6 +9,10 @@
 - Passionate Developer and Enthusiast in the field of Machine Learning, Deep Learning, Generative AI, Data analytics and Backend/API (Python - FastAPI) development.
 
 ---
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAlchemyML&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlchemyML&layout=compact&theme=radical)
+
+---
 ## :computer:Skills:
 - ## Languages:
   ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
