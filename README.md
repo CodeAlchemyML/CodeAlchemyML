@@ -9,6 +9,7 @@
 - Passionate Developer and Enthusiast in the field of Machine Learning, Deep Learning, Generative AI, Data analytics and Backend/API (Python - FastAPI) development.
 
 ---
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CodeAlchemyML&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAlchemyML&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlchemyML&layout=compact&theme=radical)
 
