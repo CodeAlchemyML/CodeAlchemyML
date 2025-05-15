@@ -9,7 +9,7 @@
 - Passionate Developer and Enthusiast in the field of Machine Learning, Deep Learning, Generative AI, Data analytics and Backend/API (Python - FastAPI) development.
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeAlchemyML&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeAlchemyML&layout=compact&theme=radical)
 
 ---
