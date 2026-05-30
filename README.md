@@ -2,8 +2,7 @@
 ## :raising_hand_man:I'm Awiksshiith Narang and I'm an AI/ML & Python Backend Developer!
 - From :round_pushpin:Rajahmundry, Andhra Pradesh, India
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/awiksshiith-narang)
-- [View My Resume](https://www.linkedin.com/company/quantrium-ai/posts/?feedView=all)
-- [View My Portfolio](https://bento.me/awiksshiith-narang)
+- [View My Resume](https://drive.google.com/file/d/1Z-vyS1KYRj1JyloFa_DTqjqEtx_HxkI-/view?usp=sharing)
 - You can contact me by mailing to: [avikshitnarang@gmail.com](avikshitnarang@gmail.com)
 - You can contact me by calling to: +91 83282 67410
 - Passionate Developer and Enthusiast in the field of Machine Learning, Deep Learning, Generative AI, Agentic AI, Data analytics and Backend/API (Python - FastAPI) development.
